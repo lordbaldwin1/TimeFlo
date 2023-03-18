@@ -1,0 +1,17 @@
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\bin\Debug\net6.0-windows\TimeFlo_Team_Windows_B.exe
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\bin\Debug\net6.0-windows\TimeFlo_Team_Windows_B.deps.json
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\bin\Debug\net6.0-windows\TimeFlo_Team_Windows_B.runtimeconfig.json
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\bin\Debug\net6.0-windows\TimeFlo_Team_Windows_B.dll
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\bin\Debug\net6.0-windows\ref\TimeFlo_Team_Windows_B.dll
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\bin\Debug\net6.0-windows\TimeFlo_Team_Windows_B.pdb
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\obj\Debug\net6.0-windows\TimeFlo_Team_Windows_B.csproj.AssemblyReference.cache
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\obj\Debug\net6.0-windows\TimeFlo_Team_Windows_B.Form1.resources
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\obj\Debug\net6.0-windows\TimeFlo_Team_Windows_B.csproj.GenerateResource.cache
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\obj\Debug\net6.0-windows\TimeFlo_Team_Windows_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\obj\Debug\net6.0-windows\TimeFlo_Team_Windows_B.AssemblyInfoInputs.cache
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\obj\Debug\net6.0-windows\TimeFlo_Team_Windows_B.AssemblyInfo.cs
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\obj\Debug\net6.0-windows\TimeFlo_Team_Windows_B.csproj.CoreCompileInputs.cache
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\obj\Debug\net6.0-windows\TimeFlo_Team_Windows_B.dll
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\obj\Debug\net6.0-windows\ref\TimeFlo_Team_Windows_B.dll
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\obj\Debug\net6.0-windows\TimeFlo_Team_Windows_B.pdb
+C:\Users\sprin\Desktop\TimeFlo+\TimeFlo_Team_Windows_B\TimeFlo_Team_Windows_B\obj\Debug\net6.0-windows\TimeFlo_Team_Windows_B.genruntimeconfig.cache
